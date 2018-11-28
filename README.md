@@ -4,7 +4,11 @@
 
 ## Introduction
 
-Cloud Test Drive 3.0 contains the lab materials for the Oracle Cloud Test Drive events aims to showcase the power of Oracle Cloud solution for the enterprise to accelerate the digital transformation initiatives. Participants can gain the experience through the labs with a series of Oracle Cloud Services like ODA + OMC (Oracle Digital Assistant & Oracle Mobile Cloud) , CECS (Content and Experience Cloud Service) and PCS (Process Cloud Services). The objective is to provide the participants to get hands-on experience with these cloud services with the scenarios to build Application and Service with the Oracle Cloud Platform.
+본 클라우드 테스트 드라이브 3.0 은 오라클 클라우드 테스트 드라이브 이벤트를 통해 오라클 클라우드 솔루션들이 엔터프라이즈 환경에서 빠르게 디지털 트랜스포메이션을 적용하는 능력을 보여주는 것을 목표로 실습 자료를 포함 하고 있습니다.
+
+참여자들은 ODA(Oracle Digital Assistant) 와 OMC(Oracle Mobile Cloud), CEC(Content and Experience Cloud), PCS(Process Cloud Service) 등의 실습 통해 경험을 통해 얻으 갈 수 있습니다.
+
+이 실습의 목표는 오라클 클라우드 플랫픔에서 클라우드 서비스 사용 시나리오를 기반으로 애플리케이션 또는 서비스를 개발하는 경험을 실습에 참여자들에 제공하는 것을 목표로 합니
 
 ![Cloud Test Drive 3.0](/images/wiki-ctd-3.0-intro1.PNG)
 
