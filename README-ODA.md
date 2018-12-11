@@ -7,15 +7,15 @@
 
 <img src="ODA/img/Intro-1.png" width="100%"/>
 
-Thus, it is a conundrum of; if we can’t get a user to download your app, how do you reach out to them?  
+만약에 당신이 앱을 설치 할 수 없다면 어떻게 어떻게 서비스를 이용할 수 있을 까요?  
 
-By using the app they already have installed – their Chat Client.
+기존에 이미 설치되어 있는 앱을 이용할 수 있습니다. - 채팅 클라이언트 
+ 
+이 문서에서는 채봇을 통해서 별도의 앱을 설치하거나 웹 사이트를 방문하지 않고 사용자가 서비스와 상호작용을 할 수 있는 방법을 소개 합니다.
 
-This introduces the idea of using a **Chatbot** to allow the end user to interact with your organisation, while removing the need for them to either proactively go to your website or download your app to do so.
+그래서 챗봇 이란?
 
-So what is a Chatbot?
-
-In short, a chatbot is a computer program designed to simulate a conversation with a human, especially over the Internet.  By using an interface metaphor that all users are used to, that is, interacting via a conversation, users can quickly and easily access the data and processes being exposed by an organization, using a universal client (the chat client) that they are already using.
+간단히 말해서 챗봇은 인터넷 환경에서 컴퓨터 프로그램을 디자인되어 사람과 같이 대화 하는 것이라고 할 수 있습니다. 모든 사용자는 대화를 통해 의사소통하는데 익숙한 메타포 인터페이스, 즉 기존의 보편적인  클라이언트(챗팅 클라이언트)를 사용하여 기업의 데이터에서 및 프로세스에 쉽고 빠르게 접근 할 수 있습니다.
 
 ### 오늘 실습에 대해서 ###
 
@@ -23,9 +23,9 @@ In short, a chatbot is a computer program designed to simulate a conversation wi
 
 <img src="ODA/img/Intro-2.png" width="40%"/>
 
-While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
+Care Supremo 는 고객이 많이 사용하고 있는 모바일 앱을 가지고 있지만, 마케팅 부서에서는 새로운 또는 잠재 고객이 앱을 다운로드지 않고 있는 것을 인식하고 있습니다. (앱을 검색하였지만 다른 앱들도 너무 많아 검색을 못할 수 있음) 마케팅 부서에서는  패이스북 메신저와 같은 소셜 채널을 통해 잠재 고객에게까지 서비스를 제공 할 수 있는 방법을 찾고 있습니다.
 
-This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality.
+이 워크샵은 CafeSupremo Bot 을 소개하고 Bot에서 사용된 다양한 컴포넌트를 살펴보고, 새로운 기능을 확장 하는지에 대해 알아 보겠습니다.
 
 # 준비 사항 #
 본 클라우드 워크샵은 사용자 가지고 있는 클라우드 계정을 기반으로 준비되어 있습니다. 클라우드 계정을 가지고 있음에도, 클라우드 계정 안에서 Digital Assistant / Chatbot 환경이 확인됮 않는 경우 [Provisioning Steps](Provisioning/Provisioning.md) 를 통해서 확인 하시기 바랍니다.
