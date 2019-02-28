@@ -28,6 +28,8 @@ Care Supremo 는 고객이 많이 사용하고 있는 모바일 앱을 가지고
 # 준비 사항 #
 본 클라우드 워크샵은 사용자 가지고 있는 클라우드 계정을 기반으로 준비되어 있습니다. 클라우드 계정을 가지고 있음에도, 클라우드 계정 안에서 Digital Assistant / Chatbot 환경이 확인되지 않은 경우 [Provisioning Steps](Provisioning/Provisioning.md) 를 통해서 확인 하시기 바랍니다.
 
+#### 금일 사용하실 환경 접속 URL 입니다. [URL: https://9a08295d.ngrok.io/botsui/home ] 복사하셔서 크롬 브라우저에서 여시면 됩니다.
+
 # 준비된 실습: #
 
 #### 1: Cafe Supremo Digital Assistant 에 대한 소개 [(시작)](ODA/100-IB.md) 
