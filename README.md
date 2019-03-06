@@ -4,7 +4,7 @@
 
 ## Introduction
 
-본 클라우드 테스트 드라이브 3.0은 오라클 클라우드 솔루션들이 엔터프라이즈 환경에서 빠른 디지털 트랜스포메이션 수행을 도와줄 수 있는 능력을 보여주는 것을 목표로하는 실습 자료를 포함 하고 있습니다.
+본 클라우드 테스트 드라이브 3.0은 오라클 클라우드 솔루션들이 엔터프라이즈 환경에서 빠른 디지털 트랜스포메이션 수행을 도와줄 수 있는 능력을 보여주는 것을 목표로하는 실습 자료를 포함 하고 있습니다..
 
 참여자들은 ODA(Oracle Digital Assistant) 와 OMC(Oracle Mobile Cloud), CEC(Content and Experience Cloud), PCS(Process Cloud Service) 테스트 드라이브 실습을 통해 오라클 클라우드 서비스에 대한 경험을 할 수 있습니다.
 
