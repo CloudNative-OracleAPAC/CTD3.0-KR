@@ -28,5 +28,5 @@ Oracle Visual Builder Cloud Service는 클라우드 기반 소프트웨어 개�
 # Lab Resources
 
 - [Section A: CloudNative_ODA](README-ODA.md)
-- [Section B: CloudNative_CECS](README-CECS.md)
+- [Section B: CloudNative_CECS](CEC-QuickStartKit/README.md)
 - [Section C: CloudNative_VBCS](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
