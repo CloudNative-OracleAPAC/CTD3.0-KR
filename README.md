@@ -23,7 +23,7 @@ Microsite는 새로운 서비스, 캠페인을 홍보하거나 메인 웹 사이
 프로세스는 고객 환경을 개선할뿐만 아니라 디지털 전환의 핵심 동인입니다. Oracle Process Cloud는 디자인 빌더, 양식 빌더 및 프로세스 자동화 기능을 기반으로 몇 분 안에 아이디어를 프로세스로 전환 할 수 있습니다. 이 실습에서는 참여자가 프로세스 및 자동화 구축의 첫 번째 시험으로 문서 승인을 관리 할 수있는 프로세스를 작성할 수 있습니다.
 
 #### Oracle Visual Builder Cloud Service
-Oracle Visual Builder Cloud Service는 클라우드 기반 소프트웨어 개발 플랫폼 (PaaS)과 애플리케이션 개발 인프라를위한 호스팅 환경입니다. Oracle Cloud 내에서 애플리케이션을 개발, 협업 및 배포하기위한 오픈 소스 표준 기반 솔루션을 제공합니다.
+Oracle Visual Builder Cloud Service는 클라우드 기반 소프트웨어 개발 플랫폼 (PaaS)과 애플리케이션 개발 인프라를위한 호스팅 환경입니다. Oracle Cloud 내에서 애플리케이션을 개발, 협업 및 배포하기위한 오픈 소스 기반 솔루션을 제공합니다.
 
 # Lab Resources
 
